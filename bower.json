@@ -1,0 +1,28 @@
+{
+  "name": "site-poliana",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Romulo Ferreira"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "materialize": "^0.98.2",
+    "breakpoint-sass": "^2.7.1",
+    "sass-flex-mixin": "^1.0.3",
+    "font-awesome": "^4.7.0",
+    "imagehover.css": "*",
+    "bootstrap-sass": "^3.3.7"
+  }
+}
