@@ -23,6 +23,7 @@
     "sass-flex-mixin": "^1.0.3",
     "font-awesome": "^4.7.0",
     "imagehover.css": "*",
-    "bootstrap-sass": "^3.3.7"
+    "bootstrap-sass": "^3.3.7",
+    "wow": "wowjs#^1.1.2"
   }
 }

@@ -1,14 +1,23 @@
-body
-  background:
 
-        position: top center
-        repeat: no-repeat
-        color: $vermelho
-        attachment: fixed
-        size: cover
-.post
-  padding: 50px
+nav
 
-.author-profile
-  width: 100%
-  border-color: $preto
+  div
+    a
+      color: $branco
+
+
+
+.borda
+  +clearfix
+  +breakpoint($celular)
+    display: none
+
+
+  img
+    width: 50%
+    border-radius: 50%
+
+
+.logo
+  width: 7%
+  padding-top: 10px
